@@ -37,7 +37,8 @@ pip install -r requirements.txt
 We are apply the different machine learning algorithm concepts on the UCI automobile dataset.
 
 Given the 26 attributes, are we able to accurately predict the pricing of inputted car.
-The whole concept of this project is that we are looking to identify:
+
+The whole concept of this project is that we are looking to **_identify_**:
 
 1) Which attributes are more valuable to solving our problem?
 
