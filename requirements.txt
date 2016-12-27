@@ -70,3 +70,4 @@ vboxapi==1.0
 webapp2==2.5.2
 xattr==0.6.4
 zope.interface==4.1.1
+pandas==0.19.1
